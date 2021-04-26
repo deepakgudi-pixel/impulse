@@ -6,6 +6,8 @@
 
 body {
   font-family: "Lato", sans-serif;
+  background-color : #181818;
+
 }
 .App {
   transition: all 0.5s ease;
@@ -16,13 +18,14 @@ body {
 
 h1 {
   font-size: 1rem;
+  color: #5BEF51;
 }
 h2 {
   color: rgb(51, 51, 51);
 }
 h3,
 h4 {
-  color: rgb(100, 100, 100);
+  color: #fff;
   font-weight: 400;
 }
 
